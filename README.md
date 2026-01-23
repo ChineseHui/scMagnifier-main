@@ -4,3 +4,6 @@ scMagnifier: resolving fine-grained cell subtypes via GRN-informed perturbations
 <p align="center">
   <img src="scMagnifier_workflow.png" alt="scMagnifier" width="700"/>
 </p>
+
+## Getting started
+See https://scmagnifier-tutorial.readthedocs.io/en/latest/
